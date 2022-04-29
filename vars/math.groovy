@@ -1,6 +1,6 @@
 def sum(a,b)
 {
-  echo "${a+b}"
+  echo "addition ${a+b}"
 }
 def sub(a,b)
 {
